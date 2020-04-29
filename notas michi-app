@@ -1,0 +1,25 @@
+Tendremos para desarrollar, servidor Front-End y Back-end
+Todos los middleware de express son funciones.
+Cada ruta o petición que llegue desde el cliente pasará por morgan y hará algo con esa petición.
+
+express es el framework que ocuparè
+mongoose es el ORM para mongodb
+morgan es para peticiones http
+multer para subir imagenes
+dotenv para variables de entorno
+define en que entorno de producciòn estoy cross-env
+para desarrollar la interfaz en otro server
+para unir dos servidores cors
+para trabajar con archivos del sistema fs-extra
+para desarrollo nodemon para no reiniciar manualmente la consola.
+para las sesiones de usuario ocuparemos express-session
+para encriptar los pass usamos bcryptjs
+dotenv para las variables de entorno sean leidas en la app
+
+npm i express mongoose morgan multer cross-env cors fs-extra 
+"DESAROLLO"
+npm i nodemon -D
+
+motor de plantillas handlebars, necesita un modulo de integración
+
+Me quede pendiente en pensar como integrar webpack con handlebars pero mario dice que ocupará angular

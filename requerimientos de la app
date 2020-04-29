@@ -1,0 +1,11 @@
+MICHIS APP
+Michis-app será una aplicación web en donde las personas puedan adoptar un gato doméstico, ya sea porque alguien ya no puede tenerlo o no quiere, también podrán adoptar por categorías, gatos bebes(baby cats), gatos en jovenes, adultos o viejos, así como gatos rescatados.
+
+FUNCIONALIDADES
+Registrarse con redes sociales o interno(siempre pedirá un DUI)
+Adoptar gatos(crud)
+Sección de noticias respectivas a animales o gatos(api)
+Sección de Cuidados para gatos (api)
+Sección de Donaciones(deberá tener un formulario)
+Sección de juguetes para gatos(api)
+
